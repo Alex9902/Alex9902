@@ -1,34 +1,35 @@
-# 👋 ¡Hola! Soy Alex Rojas
+# ¡Hola! Soy Alex Rojas
 
-🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
-💻 Apasionado por la programación, el desarrollo web y aprender cosas nuevas cada día.
-
----
-
-## 🚀 Sobre mí
-- 📚 Actualmente estudiando **DAW**
-- 🌱 Mejorando en **frontend y backend**
-- 🧠 Interesado en crear aplicaciones web funcionales y bien diseñadas
-- 🎯 Objetivo: seguir creciendo como desarrollador y participar en proyectos reales
+Desarrollador web junior apasionado por crear aplicaciones modernas, funcionales y bien diseñadas.  
+Siempre aprendiendo y mejorando cada día.
 
 ---
 
-## 🛠️ Tecnologías que uso
+## Sobre mí
+- 💻 Me gusta trastear con el código y montar aplicaciones web de principio a fin
+- ⚡ Disfruto cuando algo que no funcionaba por fin hace “click”
+- 🧩 Intento escribir código limpio, aunque siempre estoy aprendiendo cosas nuevas
+- 🎯 Ahora mismo buscando una oportunidad para meterme en proyectos reales y seguir creciendo
+
+---
+
+## 🛠️ Tecnologías
 
 ### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ### ☁️ Servidores / DevOps
@@ -47,8 +48,15 @@
 
 ---
 
+## GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Alex9902&theme=tokyonight)
+
+---
+
 ## 📂 Proyectos
-Aquí encontrarás proyectos y prácticas realizadas durante mis estudios de DAW, donde aplico lo aprendido y experimento con nuevas tecnologías.
+En este perfil encontrarás proyectos personales y prácticas donde aplico mis conocimientos en desarrollo web.  
+Me gusta experimentar con nuevas tecnologías y mejorar continuamente la calidad de mi código.
 
 ---
 
@@ -58,4 +66,4 @@ Aquí encontrarás proyectos y prácticas realizadas durante mis estudios de DAW
 
 ---
 
-⭐ ¡No dudes en echar un vistazo a mis repositorios!
+⭐ ¡Gracias por visitar mi perfil! No dudes en explorar mis repositorios.
