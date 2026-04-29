@@ -1,15 +1,14 @@
 # ¡Hola! Soy Alex Rojas
 
-Desarrollador web junior apasionado por crear aplicaciones modernas, funcionales y bien diseñadas.  
-Siempre aprendiendo y mejorando cada día.
+Desarrollador web junior con muchas ganas de hacer cosas chulas en la web
+Me gusta aprender sobre la marcha y mejorar un poco cada día
 
 ---
 
 ## Sobre mí
-- 💻 Me gusta trastear con el código y montar aplicaciones web de principio a fin
-- ⚡ Disfruto cuando algo que no funcionaba por fin hace “click”
-- 🧩 Intento escribir código limpio, aunque siempre estoy aprendiendo cosas nuevas
-- 🎯 Ahora mismo buscando una oportunidad para meterme en proyectos reales y seguir creciendo
+-  Me gusta trastear con el código y crear arquitecturas web desde 0
+-  Disfruto cuando algo que no funcionaba por fin hace “click”
+-  Intento escribir código limpio, aunque siempre aprendo cosas nuevas
 
 ---
 
