@@ -1,6 +1,7 @@
 # ¡Hola! Soy Alex Rojas
 
 Desarrollador web junior con muchas ganas de hacer cosas chulas en la web
+
 Me gusta aprender sobre la marcha y mejorar un poco cada día
 
 ---
