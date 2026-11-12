@@ -57,6 +57,9 @@ Me apasiona entender cómo funcionan las cosas por dentro, diseñar arquitectura
 **Seguridad & Análisis**
 <p>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white"/>
 </p>
 
 **Inteligencia Artificial**
